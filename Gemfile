@@ -28,6 +28,7 @@ gem "stimulus-rails"
 gem "jbuilder"
 
 gem "rack-cors"
+gem "active_model_serializers"
 
 # Use Redis adapter to run Action Cable in production
 # gem "redis", "~> 4.0"
